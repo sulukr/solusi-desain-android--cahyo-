@@ -1,4 +1,4 @@
-# Program 2
+# Program 2 - Basic Function
 
 def hello(name):
     if name == "":
