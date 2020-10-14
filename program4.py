@@ -1,4 +1,4 @@
-# Program 4
+# Program 4 - String Manipulation
 
 input1 = "milkshakepizzachickenfriescokeburgerpizzasandwichmilkshakepizza"
 input2 = "pizzachickenfriesburgercokemilkshakefriessandwich"
