@@ -1,4 +1,4 @@
-# Program 1
+# Program 1 - Sorting
 
 array = [4,9,7,5,8,9,3]
 
