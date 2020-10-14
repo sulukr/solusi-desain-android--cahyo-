@@ -1,4 +1,5 @@
-# Program 3
+# Program 3 - Basic Algorithm
+
 table = []
 def multiplicationTable(n):
     for i in range(n):
@@ -8,4 +9,4 @@ def multiplicationTable(n):
     for i in range(n):
         print(table[i])
 
-multiplicationTable(4)
+multiplicationTable(3)
