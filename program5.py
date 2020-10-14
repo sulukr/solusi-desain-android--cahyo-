@@ -1,4 +1,4 @@
-# Program 5
+# Program 5 - Basic Application
 
 import tkinter as tk
 
